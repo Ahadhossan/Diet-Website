@@ -1,0 +1,1 @@
+✔Note: This is a diet template design.  It is very nice and simply designed by me with html,css & js.  I have not written much content here, if you want you can use your own content to make it more beautiful.  I just created a simply diet response webpage.
